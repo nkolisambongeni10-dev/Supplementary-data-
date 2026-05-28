@@ -1,17 +1,15 @@
 Supplementary Data
 
-This repository contains the supplementary information and supporting documents for my research/project submission.
+This repository contains the supplementary information and supporting documents for my research submission.
 
 Contents
 
-* Supplementary methods
 * Additional figures and tables
-* Raw/processed data files
-* Supporting documentation
+* processed data files
 
 Author
 
-Mbongeni Nkolisa
+Mbongeni T.B. Nkolisa, Aysina A. Ayangbenro, Olubukola O. Babalola 
 
 Institution
 
