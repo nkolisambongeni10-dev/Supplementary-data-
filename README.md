@@ -1,6 +1,6 @@
 Supplementary Data
 
-This repository contains the supplementary information and supporting documents for my research submission.
+This repository contains the supplementary information and supporting documents for my manuscript submission.
 
 Contents
 
@@ -9,7 +9,7 @@ Contents
 
 Author
 
-Mbongeni T.B. Nkolisa, Aysina A. Ayangbenro, Olubukola O. Babalola 
+Mbongeni T.B. Nkolisa, Ayansina S. Ayangbenro and Olubukola O. Babalola
 
 Institution
 
@@ -17,7 +17,7 @@ North-West University (NWU)
 
 Description
 
-The files in this repository are provided to support the main research document and offer additional information relevant to the study.
+The data in this repository are provided to support the main research document and offer additional information relevant to the study.
 
 Access
 
